@@ -7,4 +7,5 @@ tree man ,
 river
 ocean 
 sun ,
-cloud 
+cloud ,
+main characters
