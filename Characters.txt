@@ -6,4 +6,5 @@ Crocodile's Wife,
 tree man , 
 river
 ocean 
-sun
+sun ,
+cloud 
